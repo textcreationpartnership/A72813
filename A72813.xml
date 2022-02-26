@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the grieuances of the maister, vvardens and commonaltie [sic] of the cutlers, paynter-stainers, and book-binders of the Cittie of London and consequently of all England concerning the pattent or charter of sole making of gold and siluer foliat and the proclamation prohibiting the importation of any into this kingdome, conteyned likewise in briefe in a petition exhibited into the Commons house of Parliament. viz.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72813</idno>
+            <idno type="STC">STC 16776.6</idno>
+            <idno type="STC">ESTC S125109</idno>
+            <idno type="EEBO-CITATION">99898854</idno>
+            <idno type="PROQUEST">99898854</idno>
+            <idno type="VID">151063</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151063)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1997:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the grieuances of the maister, vvardens and commonaltie [sic] of the cutlers, paynter-stainers, and book-binders of the Cittie of London and consequently of all England concerning the pattent or charter of sole making of gold and siluer foliat and the proclamation prohibiting the importation of any into this kingdome, conteyned likewise in briefe in a petition exhibited into the Commons house of Parliament. viz.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>W. Jones,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1621]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Answered in STC 16777.14; see also STC 16768.8. The patent was declared a grievance 2 May 1621; see Notestein VII. 371-2--STC.</note>
+                  <note>Imprint from STC.</note>
+                  <note>Reproduction of original in the Guildhall Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gold foil --  England --  London --  Early works to 1800.</term>
+               <term>Metal foils --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="72" facs="tcp:151063:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <head>An abſtract of the grieuances of the Maiſter, VVardens and Commonaltie of the Cutlers, Paynter-ſtainers, and Book-binders of the Cittie of London, and conſequently of all England concerning the Pattent or Charter of ſole making of Gold and Siluer <hi>Foliat</hi> and the Proclamation prohibiting the <hi>importation of any into this Kingdome, conteyned likewiſe in briefe in a Petition exhibited into the Commons houſe of Parliament.</hi> viz.</head>
+            <p>THat Gold and Siluer <hi>Foliat</hi> hath for the moſt part beene heretofore imported into this kingdome from the part beyond the Seas, and ſo free for all men to buy the ſame where they pleaſed.</p>
+            <p>About September 1619, certaine perſons skilled in the miſtery of Gold beating, being in all vnder thirtie in number, and all or moſt of them incorporated into ſome, of the Companies of the Citty of London, combyning and confederating themſelues toge<g ref="char:EOLhyphen"/>ther, did for their owne priuat lucre and gaine by the meanes and furtherance of one Doctor <hi>Egleſham</hi> one of his Maieſties Phiſitians and Sir <hi>Henry Bretton</hi> Knight, obtained from the Kings Maieſtie a Charter for a Corporation vnto themſelues, for the ſole making of Gold and Siluer <hi>Foliat,</hi> and a Proclamation Prohibiting the importation of any into this kingdome.</p>
+            <p>And moreouer, that the ſaid Company of Goldbeaters for procuring the ſaid Charter or Corporation, did promiſe and couenant to pay and allow out of their ſaid Corporation vnto the ſaid Doctor <hi>Egleſham</hi> 200 lib. <hi>per annum,</hi> during life, and to Sir <hi>Henry Bretton</hi> 50 lib. <hi>per annum</hi> beſides other yearlie charges amounting vnto in all 300 lib. <hi>per annum.</hi> or there abouts.</p>
+            <div type="part">
+               <head>The grieuances therefore ariſing thereby doe ſubſiſt of theſe particulars following.</head>
+               <p>Firſt that by this meanes, the Petitioners haue euer ſince beene inforced to buy, and take the ſaid <hi>Foliat</hi> of the new erected Corporation of Goldbeaters and no where elſe.</p>
+               <p>That they are inforced to giue higher rates and prices then heretofore they were wont to pay, viz. they now exact and make your Sup<g ref="char:EOLhyphen"/>pliants the Cutlers pay 15 s. for ſo much Gold <hi>Foliat</hi> which before the erecting of the ſaid Corporation they paid but 12 s. and 30 s. for ſo much Siluer <hi>Foliat</hi> that they did vſuallie buy for 20 s. &amp; for your ſuppliants the Painters they make them pay 21 s. for their Gold <hi>Foliat,</hi> for the which before they did pay but 18 s. and yet the ſiſe leſſer, and 11 s. for the Siluer <hi>Foliat,</hi> the which they bought for 7 s. 6 d. and your Suppliants the Booke Binders pay 9 s. for ſo much Gold <hi>Foliat</hi> as heretofore they did vſuallie buy for 8 s.</p>
+               <p>That there are but ſix of the ſaid Gold beaters which they call Wardens, which haue all ſet gaines thereof, and they confine the ſaile of the ſaid <hi>Foliat</hi> to one place which they call their Hall, whither they tie all the reſt of the ſaid Goldbeaters to bring their <hi>Foliat,</hi> and con<g ref="char:EOLhyphen"/>ſtreynes the petitioners to come and buy, yea they haue ſo combyned and confederated themſelues together, that they haue cauſed them ſelues to be bound to each other by obligations in great ſummes of money, not to vent or ſell any to your Suppliants at lower rates. And moreouer haue cauſed the reſt of them being the ſaid <hi>Foliat</hi> makers, to take ſeuerall corporall oathes, not to ſell any elſe where or to any of your Suppliants.</p>
+               <p>That ſinnce the obteyning of the ſaid Corporation and proclamation, they made the ſame more thinner and deceiptfuller then the ſame was made before, ſo as the ſame doth ſooner decay and fade in wearing, to the great diſcredit of your Suppliants, the workemen that vſe the ſame. And a damage and diſpleaſing to the Kings Maieſtie, the Nobilitie and Gentrie, which needeth or ſhall need the vſe of guilding for adorning of their howſes, Armes, Bookes, and other things.</p>
+               <p>Whereas one <hi>Spencer</hi> a Goldbeater a poore man vſing his trade in ſecret places for feare of them for the getting of his liuing, The ſaid Goldbeaters did chaſe him from place to place, and at laſt came forceably vpon him, tooke away his tooles, cauſed him to be arreſted and caſt in priſon and there laid 4000 lib. Action vppon him, and when as they did perceiue ſome of your Suppliants to endeauour to re<g ref="char:EOLhyphen"/>leiue him and helpe him out of Priſon, The ſaid company of Goldbeaters together with one <hi>Norton</hi> the Clarke of their Hall did exhibit a long bill of 46 ſheets of paper into his Maieſties Court of Star-chamber in the late Atturnney generall his name for moleſtation ſake onely againſt ſome of your Suppliants and their wiues, and put them to almoſt 20 lib. coſts to anſwere the ſame, and withall gaue out ſpeeches that they would vndoe your Suppliants.</p>
+               <p>The ſaid Goldbeaters doe ſpend and conſume of the proper Coynes or Bullion of this kingdome, in makeing of the ſaid <hi>Foliat</hi> 3 or 4 thouſand lib <hi>per annum.</hi> by eſtimation to the preiudice of the Commo<g ref="char:cmbAbbrStroke">̄</g> wealth in diminiſhing ſo much of his Bullion which would be turn<g ref="char:EOLhyphen"/>ed into Coyne.</p>
+               <p>That if the ſaid Charter and Proclammation were remoued and taken away, there would be ſufficient quantities of Gold and Siluer <hi>Foliat</hi> imported into this Realme, from forraine parts for commodities ſent from hence, to ſerue all his Maieſtie Dominions for all kind of vſes, for ornaments, without diminiſhing any the Coynes or Bullions of this Realme whatſoeuer, ſo as the Common wealth ſhall not be in this kind damnified, nor the trade of ſo many thouſands of poore artificers of this kingdome that doe get their liuings thereby impaired.</p>
+               <p>Whereas the Goldbeaters doe alledg that the <hi>Foliat</hi> heretofore imported out of the Low Countries was baſe Gold, and made deceipt<g ref="char:EOLhyphen"/>fully. Your Suppliaunts which haue vſed the ſame will maintaine and aver, that the ſame was as good as any they make now a dayes, and farre better cheape.</p>
+               <p>Whereas your Suppliants haue complained vnto them for ſelling their ſaid ſtuffe at ſuch deere rates, and for making the ſame ſo thinne, they haue anſwered that your Suppliaunts, were better be content, for if they did finde fault therewith, they ſhould pay more for the ſame.</p>
+               <p>Whereas the ſaid Goldbeaters did complaine for want of meanes to liue vppon, by their ſaid trade, before the obtaining of the ſaid Patent it is certainly knowne that they do now allow and pay out of their ſaid Corporation 300 lib. or vpwards <hi>per annum,</hi> to the ſaid Doctor <hi>Egleſham,</hi> Sir <hi>Henry Bretton,</hi> the Clarke, and Beadle of their Hall, and otherwiſe, all which is meerely exacted and raiſed out of the prices, &amp; by the falſities of the ſaid ſtuffe, to the great damage of your Suppliants, and his Maieſties ſubiects. And yet by reaſon thereof the ſaid workemens maintenance never a whit bettered.</p>
+               <p>And laſtlie the ſaid Charter or Corporation is in the nature of a Monopolie, and is obnoxious to the Common wealth, in conſuming his Coyne and Bullion and enhauncing the price of the ſaid <hi>Foliat</hi> as aforeſaid, and doe tend to the vndoing or hurt of many thouſand of the poore Artificers in this land, of Cutlers, Painters Stainers, and Booke-binders, and to all others vſing this art of gilding, and is bene<g ref="char:EOLhyphen"/>ficiall to none, but to the ſaid Doctor <hi>Egleſham,</hi> Sir <hi>Henry Breton,</hi> the ſixe VVardens of the Goldbeaters and the ſaid <hi>Norton</hi> their Clarke for any thing your petitioners know, perceiue or can diſcerne.</p>
+               <p>Wherefore they humbly pray the ſame may be called in and diſſolued.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
